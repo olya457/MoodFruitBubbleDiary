@@ -1,6 +1,8 @@
-package com.moodfruitbubblediary
+package mood.fruit.bubble.diary.sweet
+
 
 import android.app.Application
+import mood.fruit.bubble.diary.sweet.BuildConfig
 import com.facebook.react.PackageList
 import com.facebook.react.ReactApplication
 import com.facebook.react.ReactHost
@@ -11,6 +13,7 @@ import com.facebook.react.defaults.DefaultReactHost.getDefaultReactHost
 import com.facebook.react.defaults.DefaultReactNativeHost
 import com.facebook.react.soloader.OpenSourceMergedSoMapping
 import com.facebook.soloader.SoLoader
+
 
 class MainApplication : Application(), ReactApplication {
 

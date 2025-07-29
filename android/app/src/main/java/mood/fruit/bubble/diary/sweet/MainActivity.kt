@@ -1,4 +1,4 @@
-package com.moodfruitbubblediary
+package mood.fruit.bubble.diary.sweet
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
